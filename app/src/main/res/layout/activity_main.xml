@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@android:color/holo_green_light"
+    android:background="@android:color/holo_red_light"
     tools:context=".MainActivity2"
     >
 
@@ -103,6 +103,5 @@
         android:text="Result"
         android:textColor="#ffff"
         android:textSize="20dp"/>
-
 
 </LinearLayout>

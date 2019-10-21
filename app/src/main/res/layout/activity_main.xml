@@ -25,7 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="100dp"
         android:layout_margin="10dp"
-        app:srcCompat="@drawable/t1" />
+        app:srcCompat="@mipmap/ic_launcher" />
 
     <EditText
         android:id="@+id/num1"
